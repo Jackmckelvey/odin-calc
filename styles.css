@@ -41,3 +41,15 @@ h1{
     color: white;
     font-size: x-large;
 }
+
+.operators{
+    background-color: rgb(235, 235, 74);
+}
+
+.equal{
+    background-color: greenyellow;
+}
+
+.del{
+    background-color: crimson;
+}
